@@ -44,8 +44,7 @@ No external frameworks or libraries were used.
 
 ## 📂 Project Structure
 
-Syntecxhub_Landing_Page/
-│
+Syntecxhub_Landing_Page
 ├── index.html
 ├── style.css
 ├── script.js
